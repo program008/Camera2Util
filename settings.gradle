@@ -1,1 +1,1 @@
-include ':app', ':wallpaperdemo'
+include ':app', ':camera2basic'

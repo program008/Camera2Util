@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\06808506bc4833b742fc350e0ca53049c9b0a91f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\c7699d6eff56eebb130892381bedfd9d37571099\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d7c154f7a6fcb752fda461470ce8da36d7489566\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\56bf14dd60519fb880ed3e83bcee48088cfce297\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\554f6f6fff7f76bbf5efb1b9b5df72ef89b073fd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b3bf1441fa4c71f7890536b11274dfdf82458ca7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\421c59ec9556f8b05c787721ffd23ce5b0bb225c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\b787c42381a5e9b36129bded1b09c4e325bd2cbc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\9a2bb47c70073ac2ccc66d9ce5af442f3921ae5e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\e4a3568f229efef7a78fbffa8479c4803da3d7c4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\cf013ac8565c8da623139c2a37b3344aa8888e81\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:26:18-44
+	android:icon
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:31:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\06808506bc4833b742fc350e0ca53049c9b0a91f\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\c7699d6eff56eebb130892381bedfd9d37571099\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d7c154f7a6fcb752fda461470ce8da36d7489566\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\56bf14dd60519fb880ed3e83bcee48088cfce297\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\554f6f6fff7f76bbf5efb1b9b5df72ef89b073fd\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b3bf1441fa4c71f7890536b11274dfdf82458ca7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\421c59ec9556f8b05c787721ffd23ce5b0bb225c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\b787c42381a5e9b36129bded1b09c4e325bd2cbc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\9a2bb47c70073ac2ccc66d9ce5af442f3921ae5e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\e4a3568f229efef7a78fbffa8479c4803da3d7c4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\cf013ac8565c8da623139c2a37b3344aa8888e81\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\06808506bc4833b742fc350e0ca53049c9b0a91f\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml
+		INJECTED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml
+		INJECTED from E:\developer\helloandroid\view\Camera2Util\camera2basic\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\06808506bc4833b742fc350e0ca53049c9b0a91f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\c7699d6eff56eebb130892381bedfd9d37571099\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d7c154f7a6fcb752fda461470ce8da36d7489566\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\56bf14dd60519fb880ed3e83bcee48088cfce297\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\554f6f6fff7f76bbf5efb1b9b5df72ef89b073fd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b3bf1441fa4c71f7890536b11274dfdf82458ca7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\421c59ec9556f8b05c787721ffd23ce5b0bb225c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\b787c42381a5e9b36129bded1b09c4e325bd2cbc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\9a2bb47c70073ac2ccc66d9ce5af442f3921ae5e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\e4a3568f229efef7a78fbffa8479c4803da3d7c4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\cf013ac8565c8da623139c2a37b3344aa8888e81\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\06808506bc4833b742fc350e0ca53049c9b0a91f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\06808506bc4833b742fc350e0ca53049c9b0a91f\output\AndroidManifest.xml:26:9-47
